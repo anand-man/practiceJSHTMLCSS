@@ -54,7 +54,7 @@ const paymentHtml = `<section class="payment-dashboard">
       <p>Find your recent transactions below.</p>
     </div>
     <div class="new-invoice-button">
-      <h4 role="button" class="btn btn-blue-background color-white">+ NEW INVOICE</h4>
+      <button role="button" class="btn btn-blue-background color-white">+ NEW INVOICE</button>
     </div>
   </div>
   <div class="invoice-search-filter">

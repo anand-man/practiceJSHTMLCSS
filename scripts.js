@@ -160,7 +160,6 @@ const dashboardSidebar = {
         menuLists.forEach((item) => item.classList.remove("active"));
         menu.classList.add("active");
 
-        // toggle dashboard
         const currentDashboard = menuListsData.find(
           (data) => data.title === menuName
         );
